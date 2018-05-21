@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/MaxiBis/aydoo-2018-ruby.svg?branch=master)](https://travis-ci.org/MaxiBis/aydoo-2018-ruby)
-
 Chopper, proyecto base ruby
 ===========================
 
