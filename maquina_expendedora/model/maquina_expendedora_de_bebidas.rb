@@ -1,5 +1,6 @@
 
 require_relative '../model/hacedor_de_cafe_con_leche'
+require_relative '../model/hacedor_de_te_con_leche'
 require_relative '../model/azucarero'
 
 class MaquinaExpendedoraDeBebidas
@@ -14,8 +15,10 @@ class MaquinaExpendedoraDeBebidas
   end
 
   def hacer_te_con_leche_con_n_de_azucar(un_vaso, cantidad_azucar)
+    teLechero = HacedorDeTeConLeche.new
+    teLechero.hacer(un_vaso)
 
-
-
+    miAzucarero = Azucarero.new
+    miAzucarero.ponerAzucar(un_vaso,cantidad_azucar)
   end
 end
