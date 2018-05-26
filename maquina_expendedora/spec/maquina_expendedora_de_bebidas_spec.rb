@@ -1,6 +1,8 @@
 #class MaquinaExpendedoraDeBebidas_spec end
 
 require 'rspec'
+require_relative '../model/maquina_expendedora_de_bebidas'
+require_relative '../model/vaso'
 
 describe MaquinaExpendedoraDeBebidas do
   let(:un_vaso) { Vaso.new }
@@ -18,6 +20,7 @@ describe MaquinaExpendedoraDeBebidas do
     expect(un_vaso.tiene_te?).to be_falsey
   end
 
+
   it 'deberia hacer te con leche con 0 de azucar' do
     cantidad_azucar = 0
 
@@ -28,4 +31,6 @@ describe MaquinaExpendedoraDeBebidas do
     expect(un_vaso.tiene_azucar?).to be_falsey
     expect(un_vaso.tiene_te?).to be_truthy
   end
+
+
 end
