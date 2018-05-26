@@ -2,6 +2,10 @@ class Fibonacci
 
 
   def generar(cantidadNumeros)
+
+    if cantidadNumeros < 1
+      raise ArgumentError.new('Numero debe ser 1 o mayor')
+    end
     devolucion = Array.new
     primero = 0
     segundo = 1
