@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e226ccb3-2394-40c6-a213-6e5053e289dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e226ccb3-2394-40c6-a213-6e5053e289dd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,34 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="00_hola_mundo.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="01_rutas_con_verbos.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02_parametros.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/02_parametros.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04_testing.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/04_testing.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="new.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibo5/views/new.erb">
           <provider selected="true" editor-type-id="text-editor" />
@@ -69,11 +39,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fibonacci_spec.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fibonacci_spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibo5/spec/fibonacci_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maquina_expendedora_de_bebidas.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maquina_expendedora/model/maquina_expendedora_de_bebidas.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maquina_expendedora_de_bebidas_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maquina_expendedora/spec/maquina_expendedora_de_bebidas_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -192,17 +180,6 @@
             <path>
               <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_sinatra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_sinatra" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
               <item name="maquina_expendedora" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -210,6 +187,12 @@
               <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
               <item name="maquina_expendedora" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="maquina_expendedora" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,15 +228,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526875205208</updated>
-      <workItem from="1526875208978" duration="19085000" />
+      <workItem from="1526875208978" duration="19401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19085000" />
+    <option name="totallyTimeSpent" value="19401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
@@ -331,13 +315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maquina_expendedora/spec/maquina_expendedora_de_bebidas_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maquina_expendedora/model/hacedor_de_cafe_con_leche.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -363,13 +340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maquina_expendedora/model/maquina_expendedora_de_bebidas.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -453,6 +423,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maquina_expendedora/spec/maquina_expendedora_de_bebidas_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maquina_expendedora/model/maquina_expendedora_de_bebidas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
