@@ -1,15 +1,14 @@
-require_relative './Sentido'
-
-class SentidoInverso < Sentido
+class ParidadPar < Paridad
 
   def aplicarSobre(listaFibo)
 
     listaADevolver = Array.new
 
-    i = listaFibo.size
+
     listaFibo.each do |nro|
-      i = i -1
-      listaADevolver[i] = nro
+      if (nro%2 == 0) && (nro>0)
+        listaADevolver+= [nro]
+      end
     end
     listaADevolver
   end

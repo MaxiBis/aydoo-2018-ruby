@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e226ccb3-2394-40c6-a213-6e5053e289dd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/fibo5/model/sentido_inverso.rb" beforeDir="false" afterPath="$PROJECT_DIR$/fibo5/model/sentido_inverso.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fibo5/spec/sentido_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/fibo5/spec/sentido_spec.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,20 +32,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sentido_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sentido_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fibo5/spec/sentido_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="323">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sentido_inverso.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="paridad_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fibo5/spec/paridad_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paridad_impar.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_impar.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paridad.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fibo5/model/paridad.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paridad_par.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_par.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sentido_inverso.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibo5/model/sentido_inverso.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -61,40 +98,8 @@
       <file leaf-file-name="sentido_directo.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibo5/model/sentido_directo.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chopper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/chopper.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="04_app_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/spec/04_app_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02_parametros.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/02_parametros.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fibonacci.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibo5/model/fibonacci.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -129,8 +134,12 @@
         <option value="$PROJECT_DIR$/fibo5/spec/fibonacci_spec.rb" />
         <option value="$PROJECT_DIR$/fibo5/model/sentido_directo.rb" />
         <option value="$PROJECT_DIR$/fibo5/model/sentido.rb" />
-        <option value="$PROJECT_DIR$/fibo5/spec/sentido_spec.rb" />
         <option value="$PROJECT_DIR$/fibo5/model/sentido_inverso.rb" />
+        <option value="$PROJECT_DIR$/fibo5/model/paridad.rb" />
+        <option value="$PROJECT_DIR$/fibo5/model/paridad_par.rb" />
+        <option value="$PROJECT_DIR$/fibo5/model/paridad_impar.rb" />
+        <option value="$PROJECT_DIR$/fibo5/spec/paridad_spec.rb" />
+        <option value="$PROJECT_DIR$/fibo5/spec/sentido_spec.rb" />
       </list>
     </option>
   </component>
@@ -232,6 +241,36 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="All tests in spec: proyecto-base-ruby" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="proyecto-base-ruby" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/fibo5/spec" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*,*_spec}.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: proyecto-base-ruby" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -243,12 +282,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526875205208</updated>
-      <workItem from="1526875208978" duration="25797000" />
+      <workItem from="1526875208978" duration="27953000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="All_tests_in_spec__proyecto-base-ruby - 2018.05.27 at 23h 49m 46s.xml">
+      <configuration name="All tests in spec: proyecto-base-ruby" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25797000" />
+    <option name="totallyTimeSpent" value="27953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -257,7 +301,7 @@
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32965517" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22526042" />
@@ -464,22 +508,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fibo5/model/sentido_directo.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fibo5/spec/sentido_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fibo5/model/sentido_inverso.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_par.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/model/paridad.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_impar.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/spec/paridad_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/spec/sentido_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
