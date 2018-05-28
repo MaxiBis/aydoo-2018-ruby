@@ -1,11 +1,20 @@
 require 'sinatra'
+require 'sinatra/json'
+require_relative './model/fibonacci'
 
 configure do
   set :bind, '0.0.0.0'
 end
 
-get '/alumno/new' do
-  'Formulario de creacion de alumno'
+get '/fibonacci/:cantidadDeNumeros' do
+  limiteSusecion = Integer(params[:cantidadDeNumeros])
+  fibo = Fibonacci.new
+  lista = fibo.generar(limiteSusecion)
+  json({ "fibonacci": { "limite": limiteSusecion, "lista": lista}})
+end
+
+get '/fibonacci/:cantidadDeNumeros/lista' do
+  redirect "/fibonacci/#{params[:cantidadDeNumeros]}"
 end
 
 post '/alumno/create' do

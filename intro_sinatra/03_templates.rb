@@ -1,5 +1,8 @@
 require 'sinatra'
 require 'byebug'
+configure do
+  set :bind, '0.0.0.0'
+end
 
 @@alumnos = {}
 @@ultimo_id_asignado = 0

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e226ccb3-2394-40c6-a213-6e5053e289dd" name="Default" comment="" />
+    <list default="true" id="e226ccb3-2394-40c6-a213-6e5053e289dd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_sinatra/02_parametros.rb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_sinatra/02_parametros.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_sinatra/03_templates.rb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_sinatra/03_templates.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_sinatra/04_testing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_sinatra/04_testing.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +17,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lista_sumatoria.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibo5/model/lista_sumatoria.rb">
+      <file leaf-file-name="00_hola_mundo.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="73" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fibonacci.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibo5/model/fibonacci.rb">
+      <file leaf-file-name="01_rutas_con_verbos.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="58" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_templates.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_sinatra/03_templates.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_sinatra/views/edit.erb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="04_app_spec.rb" pinned="false" current-in-tab="false">
@@ -38,35 +58,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/views/edit.erb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="03_templates.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intro_sinatra/03_templates.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="chopper.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/chopper.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="paridad_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibo5/spec/paridad_spec.rb">
+      <file leaf-file-name="04_testing.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_sinatra/04_testing.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lista_sumatoria_spec.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fibo5/spec/lista_sumatoria_spec.rb">
+      <file leaf-file-name="00_parametros.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fibo5/00_parametros.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="111" selection-start-line="24" selection-start-column="111" selection-end-line="24" selection-end-column="111" />
+            <state relative-caret-position="272">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fibonacci.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fibo5/model/fibonacci.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -74,17 +88,17 @@
       <file leaf-file-name="fibonacci_spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibo5/spec/fibonacci_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="88" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paridad_impar.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_impar.rb">
+      <file leaf-file-name="02_parametros.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intro_sinatra/02_parametros.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -128,6 +142,12 @@
         <option value="$PROJECT_DIR$/fibo5/model/paridad_impar.rb" />
         <option value="$PROJECT_DIR$/fibo5/model/lista_sumatoria.rb" />
         <option value="$PROJECT_DIR$/fibo5/spec/lista_sumatoria_spec.rb" />
+        <option value="$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb" />
+        <option value="$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb" />
+        <option value="$PROJECT_DIR$/intro_sinatra/02_parametros.rb" />
+        <option value="$PROJECT_DIR$/intro_sinatra/03_templates.rb" />
+        <option value="$PROJECT_DIR$/intro_sinatra/04_testing.rb" />
+        <option value="$PROJECT_DIR$/fibo5/00_parametros.rb" />
       </list>
     </option>
   </component>
@@ -276,7 +296,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526875205208</updated>
-      <workItem from="1526875208978" duration="30874000" />
+      <workItem from="1526875208978" duration="37153000" />
     </task>
     <servers />
   </component>
@@ -286,7 +306,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30874000" />
+    <option name="totallyTimeSpent" value="37153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -399,13 +419,7 @@
     <entry file="file://$PROJECT_DIR$/fibo5/04_testing.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fibo5/views/index.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/fibo5/views/new.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fibo5/views/edit.erb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fibo5/spec/04_app_spec.rb">
@@ -414,19 +428,6 @@
           <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/04_testing.rb">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/maquina_expendedora/spec/maquina_expendedora_de_bebidas_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -446,13 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/02_parametros.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -512,42 +506,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_impar.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/views/edit.erb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/03_templates.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/chopper.rb">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro_sinatra/spec/04_app_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fibo5/model/fibonacci.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fibo5/spec/fibonacci_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="88" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fibo5/spec/paridad_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -565,8 +525,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fibo5/spec/lista_sumatoria_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="111" selection-start-line="24" selection-start-column="111" selection-end-line="24" selection-end-column="111" />
+        <state relative-caret-position="459">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/model/paridad_impar.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/views/edit.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/views/index.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/spec/fibonacci_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/spec/04_app_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/views/edit.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/00_hola_mundo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/01_rutas_con_verbos.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/02_parametros.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/03_templates.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/model/fibonacci.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intro_sinatra/04_testing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibo5/00_parametros.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
         </state>
       </provider>
     </entry>
