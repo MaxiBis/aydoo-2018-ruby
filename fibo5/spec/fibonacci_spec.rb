@@ -4,7 +4,7 @@ require_relative '../model/fibonacci'
 class Fibonacci_spec
 
 
-  describe 'Chopper' do
+  describe 'FiboTests' do
 
     let(:fibo) { Fibonacci.new }
 
