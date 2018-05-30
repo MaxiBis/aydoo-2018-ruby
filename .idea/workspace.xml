@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e226ccb3-2394-40c6-a213-6e5053e289dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/fibo5/model/00_funcionamiento.rb" beforeDir="false" afterPath="$PROJECT_DIR$/fibo5/model/00_funcionamiento.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="funcionamiento_spec.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="funcionamiento_spec.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibo5/spec/funcionamiento_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1020">
               <caret line="66" column="45" lean-forward="true" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -81,15 +90,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lista_sumatoria.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibo5/model/lista_sumatoria.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -152,6 +152,7 @@
         <option value="$PROJECT_DIR$/fibo5/00_funcionamiento.rb" />
         <option value="$PROJECT_DIR$/fibo5/model/00_funcionamiento.rb" />
         <option value="$PROJECT_DIR$/fibo5/spec/funcionamiento_spec.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -184,56 +185,6 @@
             <path>
               <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
               <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="chopper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="chopper" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="fibo5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="fibo5" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="fibo5" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_sinatra" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_sinatra" type="462c0819:PsiDirectoryNode" />
-              <item name="spec" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="intro_sinatra" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="proyecto-base-ruby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proyecto-base-ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,7 +255,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526875205208</updated>
-      <workItem from="1526875208978" duration="62181000" />
+      <workItem from="1526875208978" duration="62810000" />
     </task>
     <servers />
   </component>
@@ -314,7 +265,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62181000" />
+    <option name="totallyTimeSpent" value="62810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -637,6 +588,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="66" column="45" lean-forward="true" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
