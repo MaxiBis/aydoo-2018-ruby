@@ -4,7 +4,7 @@ require_relative '../model/fibonacci'
 class Fibonacci_spec
 
 
-  describe 'Chopper' do
+  describe 'FiboTests' do
 
     let(:fibo) { Fibonacci.new }
 
@@ -12,11 +12,9 @@ class Fibonacci_spec
       expect(fibo.generar(3)).to eq [0,1,1]
     end
 
-=begin
+    it 'genero una susecion de numero negativo' do
+      expect{fibo.generar(-1)}.to raise_error ArgumentError, 'Numero debe ser 1 o mayor'
+    end
 
-  it 'chop de 3 y [3] deberia ser 0' do
-    expect(chopper.chop(3,[3])).to eq 0
-  end
-=end
 end
 end
