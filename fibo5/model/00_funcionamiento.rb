@@ -14,14 +14,14 @@ end
 
 get '/fibonacci/:cantidadDeNumeros/lista' do
   lista = usoStd(params)
-  json({ "fibonacci": { "limite": params[:cantidadDeNumeros], "lista": lista}})
+  json({ "fibonacci": { "limite": params[:cantidadDeNumeros].to_i, "lista": lista}})
 end
 
 get '/fibonacci/:cantidadDeNumeros/sumatoria' do
   lista = usoStd(params)
   sum = ListaSumatoria.new("s")
   lista = sum.aplicarSobre(lista)
-  json({ "fibonacci": { "limite": params[:cantidadDeNumeros], "sumatoria": lista}})
+  json({ "fibonacci": { "limite": params[:cantidadDeNumeros].to_i, "sumatoria": lista}})
 end
 
 get '/fibonacci/*' do
